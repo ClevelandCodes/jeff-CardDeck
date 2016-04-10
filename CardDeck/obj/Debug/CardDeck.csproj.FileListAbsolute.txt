@@ -3,3 +3,4 @@ c:\users\jeff\documents\visual studio 2015\Projects\CardDeck\CardDeck\bin\Debug\
 c:\users\jeff\documents\visual studio 2015\Projects\CardDeck\CardDeck\bin\Debug\CardDeck.pdb
 c:\users\jeff\documents\visual studio 2015\Projects\CardDeck\CardDeck\obj\Debug\CardDeck.exe
 c:\users\jeff\documents\visual studio 2015\Projects\CardDeck\CardDeck\obj\Debug\CardDeck.pdb
+c:\users\jeff\documents\visual studio 2015\Projects\CardDeck\CardDeck\obj\Debug\CardDeck.csprojResolveAssemblyReference.cache

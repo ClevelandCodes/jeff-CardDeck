@@ -46,5 +46,21 @@ namespace CardDeck
         {
             return CardList;
         }
+
+        public Card[] getHand()
+        {
+            // First Shuffle the deck so it's random
+            shuffle();
+
+            // Next get the first 5 cards
+            Card[] hand = new Card[5];
+            for (int i = 0; i < hand.Length; i++)
+            {
+                hand[i] = CardList[i];
+            }
+
+            //Return the hand I created
+            return hand;
+        }
     }
 }
